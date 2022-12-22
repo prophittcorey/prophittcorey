@@ -1,4 +1,6 @@
-## Hello World
+## Hello, I'm Corey.
 
-- 💻 I'm currently working on [Nymeria](https://www.nymeria.io).
-- 🌱 I sometimes update my [personal site](https://prophitt.me).
+I'm a husband, father of two and a creator of software.
+
+- I am currently working on [Nymeria](https://www.nymeria.io).
+- I occasionally update my [personal site](https://prophitt.me).
