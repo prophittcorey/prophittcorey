@@ -2,5 +2,5 @@
 
 I'm a husband, father of two and a creator of software.
 
-- I am currently working on [Nymeria](https://www.nymeria.io).
-- I occasionally update my [personal site](https://prophitt.me).
+- My latest creation is [Nymeria](https://www.nymeria.io).
+- You can find me on my [personal site](https://prophitt.me).
