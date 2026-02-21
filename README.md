@@ -1,3 +1,5 @@
-## Hello, I'm Corey.
+# Hello, I'm Corey 👋
 
-I'm a husband, a father of two and a creator of software. I enjoy building software solutions that are performant, minimal and unobtrusive.
+**Husband | Father of Two | Creator of Software**
+
+I'm a pragmatic software developer with a passion for the art and craft of software development.
